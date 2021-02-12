@@ -1,0 +1,7 @@
+C:\1A\Agenda\C#\Calc2\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\1A\Agenda\C#\Calc2\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\1A\Agenda\C#\Calc2\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\1A\Agenda\C#\Calc2\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\1A\Agenda\C#\Calc2\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\1A\Agenda\C#\Calc2\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\1A\Agenda\C#\Calc2\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
